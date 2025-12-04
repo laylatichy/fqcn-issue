@@ -2,7 +2,9 @@
 
 namespace App;
 
-use Tempest\Database\Eager;use Tempest\Database\HasMany;use Tempest\Database\PrimaryKey;
+use Tempest\Database\Eager;
+use Tempest\Database\HasMany;
+use Tempest\Database\PrimaryKey;
 
 final class Author
 {
